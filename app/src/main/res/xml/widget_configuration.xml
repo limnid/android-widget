@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--android:previewImage="@drawable/preview"-->
+<!--android:initialLayout="@layout/example_appwidget"-->
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:minWidth="250dp"
+                    android:minHeight="90dp"
+                    android:updatePeriodMillis="3600000"
+                    android:configure="com.grabber.widget.ui.WidgetActivity"
+                    android:resizeMode="horizontal|vertical"
+                    android:widgetCategory="home_screen|keyguard" />

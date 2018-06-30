@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="main">Main</string>
+    <string name="name">Please enter</string>
+    <string name="fill_field">Please fill all the required fields</string>
+    <string name="feed_name">Feed name</string>
+    <string name="feed_url">Source</string>
+    <string name="add_feed">RSS Feed</string>
+    <string name="widget_settings">Widget settings</string>
+    <string name="feeds_list">List of feeds</string>
+    <string name="incorrect_url">Incorrect URL</string>
+    <string name="save">Save</string>
+    <string name="empty_list">You have no feeds. Please add widget to your home screen then you will see all feeds on that list</string>
+</resources>
